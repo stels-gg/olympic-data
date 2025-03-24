@@ -1,0 +1,410 @@
+{
+    "Water Sports": {
+        "en": "Water Sports",
+        "ru": "Водные виды спорта",
+        "disciplines": [
+            {
+                "en": "Sailing",
+                "ru": "Парусный спорт"
+            },
+            {
+                "en": "Canoe Sprint (Canoeing)",
+                "ru": "Гребной спринт"
+            },
+            {
+                "en": "Canoe Slalom (Canoeing)",
+                "ru": "Гребной слалом"
+            },
+            {
+                "en": "Canoe Marathon (Canoeing)",
+                "ru": "Гребной марафон"
+            },
+            {
+                "en": "Rowing",
+                "ru": "Гребля"
+            },
+            {
+                "en": "Diving (Aquatics)",
+                "ru": "Прыжки в воду"
+            },
+            {
+                "en": "Swimming (Aquatics)",
+                "ru": "Плавание"
+            },
+            {
+                "en": "Water Polo (Aquatics)",
+                "ru": "Водное поло"
+            },
+            {
+                "en": "Artistic Swimming (Aquatics)",
+                "ru": "Синхронное плавание"
+            },
+            {
+                "en": "Marathon Swimming (Aquatics)",
+                "ru": "Марафонское плавание"
+            },
+            {
+                "en": "Motorboating",
+                "ru": "Водно-моторный спорт"
+            },
+            {
+                "en": "Surfing",
+                "ru": "Серфинг"
+            }
+        ]
+    },
+    "Winter Sports": {
+        "en": "Winter Sports",
+        "ru": "Зимние виды спорта",
+        "disciplines": [
+            {
+                "en": "Bobsleigh (Bobsleigh)",
+                "ru": "Бобслей"
+            },
+            {
+                "en": "Winter Pentathlon",
+                "ru": "Зимнее пятиборье"
+            },
+            {
+                "en": "Speed Skating (Skating)",
+                "ru": "Скоростное катание на коньках"
+            },
+            {
+                "en": "Ice Hockey (Ice Hockey)",
+                "ru": "Ледовый хоккей"
+            },
+            {
+                "en": "Bandy",
+                "ru": "Хоккей с мячом"
+            },
+            {
+                "en": "Cross Country Skiing (Skiing)",
+                "ru": "Лыжные гонки"
+            },
+            {
+                "en": "Alpine Skiing (Skiing)",
+                "ru": "Горнолыжный спорт"
+            },
+            {
+                "en": "Military Ski Patrol (Skiing)",
+                "ru": "Военно-лыжный патруль"
+            },
+            {
+                "en": "Nordic Combined (Skiing)",
+                "ru": "Нордическое комбинированное"
+            },
+            {
+                "en": "Skeleton (Bobsleigh)",
+                "ru": "Скелетон"
+            },
+            {
+                "en": "Biathlon",
+                "ru": "Биатлон"
+            },
+            {
+                "en": "Figure Skating (Skating)",
+                "ru": "Фигурное катание"
+            },
+            {
+                "en": "Luge",
+                "ru": "Санный спорт"
+            },
+            {
+                "en": "Short Track Speed Skating (Skating)",
+                "ru": "Конькобежный спорт (короткая дорожка)"
+            },
+            {
+                "en": "Freestyle Skiing (Skiing)",
+                "ru": "Фристайл на лыжах"
+            },
+            {
+                "en": "Speed Skiing (Skiing)",
+                "ru": "Скоростной лыжный спуск"
+            },
+            {
+                "en": "Ski Jumping (Skiing)",
+                "ru": "Лыжный прыжок"
+            },
+            {
+                "en": "Snowboarding (Skiing)",
+                "ru": "Сноубординг"
+            },
+            {
+                "en": "Curling",
+                "ru": "Кёрлинг"
+            },
+            {
+                "en": "Ski Mountaineering",
+                "ru": "Лыжный альпинизм"
+            },
+            {
+                "en": "3-on-3 Ice Hockey (Ice Hockey)",
+                "ru": "Хоккей 3 на 3"
+            }
+        ]
+    },
+    "Team Sports": {
+        "en": "Team Sports",
+        "ru": "Командные виды спорта",
+        "disciplines": [
+            {
+                "en": "Hockey",
+                "ru": "Хоккей"
+            },
+            {
+                "en": "Softball (Baseball/Softball)",
+                "ru": "Софтбол"
+            },
+            {
+                "en": "Baseball (Baseball/Softball)",
+                "ru": "Бейсбол"
+            },
+            {
+                "en": "Basketball (Basketball)",
+                "ru": "Баскетбол"
+            },
+            {
+                "en": "Handball",
+                "ru": "Гандбол"
+            },
+            {
+                "en": "Australian Rules Football",
+                "ru": "Австралийский футбол"
+            },
+            {
+                "en": "Polo",
+                "ru": "Поло"
+            },
+            {
+                "en": "Rugby (Rugby)",
+                "ru": "Регби"
+            },
+            {
+                "en": "Tug-Of-War",
+                "ru": "Перетягивание каната"
+            },
+            {
+                "en": "Lacrosse",
+                "ru": "Лакросс"
+            },
+            {
+                "en": "Football (Football)",
+                "ru": "Футбол"
+            },
+            {
+                "en": "Bicycle Polo (Cycling)",
+                "ru": "Велосипедное поло"
+            },
+            {
+                "en": "Cricket",
+                "ru": "Крикет"
+            },
+            {
+                "en": "Beach Volleyball (Volleyball)",
+                "ru": "Пляжный волейбол"
+            },
+            {
+                "en": "Volleyball (Volleyball)",
+                "ru": "Волейбол"
+            },
+            {
+                "en": "3x3 Basketball (Basketball)",
+                "ru": "3x3 Баскетбол"
+            },
+            {
+                "en": "Rugby Sevens (Rugby)",
+                "ru": "Регби-семёрка"
+            },
+            {
+                "en": "Hockey 5s",
+                "ru": "Хоккей 5s"
+            }
+        ]
+    },
+    "Combat Sports": {
+        "en": "Combat Sports",
+        "ru": "Единоборства",
+        "disciplines": [
+            {
+                "en": "Fencing",
+                "ru": "Фехтование"
+            },
+            {
+                "en": "Boxing",
+                "ru": "Бокс"
+            },
+            {
+                "en": "Wrestling",
+                "ru": "Борьба"
+            },
+            {
+                "en": "Judo",
+                "ru": "Дзюдо"
+            },
+            {
+                "en": "Savate",
+                "ru": "Сават"
+            },
+            {
+                "en": "Taekwondo",
+                "ru": "Тхэквондо"
+            },
+            {
+                "en": "Glíma",
+                "ru": "Глима"
+            },
+            {
+                "en": "Karate",
+                "ru": "Карате"
+            }
+        ]
+    },
+    "Technical Sports": {
+        "en": "Technical Sports",
+        "ru": "Технические виды спорта",
+        "disciplines": [
+            {
+                "en": "Modern Pentathlon",
+                "ru": "Современное пятиборье"
+            },
+            {
+                "en": "Archery",
+                "ru": "Стрельба из лука"
+            },
+            {
+                "en": "Shooting",
+                "ru": "Стрельба"
+            },
+            {
+                "en": "Cycling Road (Cycling)",
+                "ru": "Шоссейный велоспорт"
+            },
+            {
+                "en": "Cycling Track (Cycling)",
+                "ru": "Трековый велоспорт"
+            },
+            {
+                "en": "Equestrian Dressage (Equestrian)",
+                "ru": "Выездка (конный спорт)"
+            },
+            {
+                "en": "Equestrian Eventing (Equestrian)",
+                "ru": "Трехборье (конный спорт)"
+            },
+            {
+                "en": "Equestrian Jumping (Equestrian)",
+                "ru": "Конкур (конный спорт)"
+            },
+            {
+                "en": "Equestrian Vaulting (Equestrian)",
+                "ru": "Конное вольтижирование"
+            },
+            {
+                "en": "Equestrian Driving (Equestrian)",
+                "ru": "Конное вождение"
+            },
+            {
+                "en": "Cycling Mountain Bike (Cycling)",
+                "ru": "Маунтинбайк"
+            },
+            {
+                "en": "Cycling BMX Racing (Cycling)",
+                "ru": "BMX (гоночный велосипедный спорт)"
+            },
+            {
+                "en": "Cycling BMX Freestyle (Cycling)",
+                "ru": "BMX-фристайл"
+            }
+        ]
+    },
+    "Other Sports": {
+        "en": "Other Sports",
+        "ru": "Другие виды спорта",
+        "disciplines": [
+            {
+                "en": "Tennis",
+                "ru": "Теннис"
+            },
+            {
+                "en": "Table Tennis",
+                "ru": "Настольный теннис"
+            },
+            {
+                "en": "Badminton",
+                "ru": "Бадминтон"
+            },
+            {
+                "en": "Athletics",
+                "ru": "Лёгкая атлетика"
+            },
+            {
+                "en": "Art Competitions",
+                "ru": "Художественные соревнования"
+            },
+            {
+                "en": "Golf",
+                "ru": "Гольф"
+            },
+            {
+                "en": "Jeu De Paume",
+                "ru": "Жё де Пом"
+            },
+            {
+                "en": "Racquets",
+                "ru": "Ракетс"
+            },
+            {
+                "en": "Croquet",
+                "ru": "Крокет"
+            },
+            {
+                "en": "Artistic Gymnastics (Gymnastics)",
+                "ru": "Спортивная гимнастика"
+            },
+            {
+                "en": "Rhythmic Gymnastics (Gymnastics)",
+                "ru": "Художественная гимнастика"
+            },
+            {
+                "en": "Weightlifting",
+                "ru": "Тяжёлая атлетика"
+            },
+            {
+                "en": "Triathlon",
+                "ru": "Триатлон"
+            },
+            {
+                "en": "Basque pelota",
+                "ru": "Баскская пелота"
+            },
+            {
+                "en": "Trampolining (Gymnastics)",
+                "ru": "Трамплинг"
+            },
+            {
+                "en": "Roque",
+                "ru": "Рок"
+            },
+            {
+                "en": "Skateboarding (Roller Sports)",
+                "ru": "Скейтбординг"
+            },
+            {
+                "en": "Mixed Sports",
+                "ru": "Смешанные виды спорта"
+            },
+            {
+                "en": "Ballooning (Air Sports)",
+                "ru": "Баллонинг"
+            },
+            {
+                "en": "Sport Climbing",
+                "ru": "Спортивное скалолазание"
+            },
+            {
+                "en": "Roller Skating (Roller Sports)",
+                "ru": "Роликовый спорт"
+            }
+        ]
+    }
+}
